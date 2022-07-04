@@ -1,7 +1,7 @@
 # This app shows how to make Ethereum transactions (load account balance, transfer ERC-20 tokens between accounts)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Technologies used: [ethers.js](https://docs.ethers.io/v5/) and [Alchemy](alchemy.com).
+This project was bootstrapped with Create React App.
+Technologies used: [ethers.js](https://docs.ethers.io/v5/) and [Alchemy](https://alchemy.com).
 
 To run this project:
 1. Register on alchemy.com and change your API_KEY.
